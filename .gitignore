@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Lamgington
+.lamington
+
+# Generated Typescript files
+*.ts
+
+# VSCode
+.vscode/
+
+# Apple
+.DS_Store
+
+# Prettier
+.prettierrc
+
+# Lamington build output
+.lamington
